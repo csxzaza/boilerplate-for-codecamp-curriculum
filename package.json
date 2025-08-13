@@ -1,1 +1,10 @@
-
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This is just the first challenge for FreeCodecamp",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Christian Siemantel",
+  "license": "ISC"
+}
