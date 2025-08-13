@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "my-project",
   "version": "1.0.0",
   "description": "This is just the first challenge for FreeCodecamp",
   "main": "index.js",
